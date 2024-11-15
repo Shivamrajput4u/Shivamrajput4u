@@ -1,7 +1,7 @@
 - 👋 Hi, I’m kumar shivam
-  full stack developer
+  python developer
 - 🌱 I’m currently learning android development
-- 💞️ I’m looking to collaborate on full stack development
+- 💞️ I’m looking to collaborate on python development
 - 📫 you can reach me via my email 
 
 <!---
